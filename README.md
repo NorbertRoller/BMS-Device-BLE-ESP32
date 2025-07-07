@@ -36,7 +36,7 @@ so that the app can be used as well. As with most BLE devices, only one device c
 
 This is a fully functioning test program that will be imported into a Camper-Monitoring-Display project.
 
-# Important:
+## Important:
 
 The BMS reacts very slow to connects and commands. So sometimes delays and re-sends had to be included to make a stable connection.
 
